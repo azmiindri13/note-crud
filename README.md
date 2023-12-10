@@ -9,8 +9,10 @@ Ini adalah aplikasi catatan sederhana berbasis web dengan memakai konsep CRUD (C
 - Search Notes
 - Dark-Light Mode
 
-## Installation
+## Demo
+[Notes App](https://note-crud-eight.vercel.app/)
 
+## Installation
 ### Clone Project
 
 ```bash
